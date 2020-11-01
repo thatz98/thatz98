@@ -1,9 +1,10 @@
+<div align='center'>
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 ![image](dino.gif)
 
-
+</div>
 <p align='center'>
 <a href="https://www.facebook.com/danu.thathsarana.de"><img height="30" src="facebook-32x32.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/FfutryD"><img height="30" src="twitter-32x32.png"></a>&nbsp;&nbsp;
