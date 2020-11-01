@@ -1,10 +1,10 @@
 <div align='center'>
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  <h1> Hello, folks! </h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 ![image](dino.gif)
 
-</div>
+
 <p align='center'>
 <a href="https://www.facebook.com/danu.thathsarana.de"><img height="30" src="facebook-32x32.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/FfutryD"><img height="30" src="twitter-32x32.png"></a>&nbsp;&nbsp;
@@ -13,7 +13,9 @@
 </p>
 
 
-Enthusiastic, creative computer science undergraduate with 2+ years of experience in BPO/KPO industry seeking to leverage exemplary leadership, analytical and programming skills, thinks out of the box and tries to go beyond the tradition. Good negotiator, presenter, quick learner and adopt fast to new technologies and environments within a very short period of time. 
+Enthusiastic, creative computer science undergraduate with 2+ years of experience in BPO/KPO industry seeking to leverage exemplary leadership, analytical and programming skills, thinks out of the box and tries to go beyond the tradition. Good negotiator, presenter, quick learner and adopt fast to new technologies and environments within a very short period of time.
+
+</div>
 <!--
 **thatz98/thatz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
