@@ -1,5 +1,5 @@
 <div align='center'>
-  <h1> Hello, folks! </h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  <p font-size='24px' font-weight='bold'> Hello, folks! </p> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 ![image](dino.gif)
