@@ -1,4 +1,4 @@
-<h2 align="center">Hello there! I'm Thatz. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<h1 align="center">Hello there! I'm Thatz. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 ![image](dino.gif)
 
