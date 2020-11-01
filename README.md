@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](https://github.com/thatz98/thatz98/blob/master/dino.gif)
+![image](https://github.com/thatz98/thatz98/blob/master/dino.gif);
 
 <!--
 **thatz98/thatz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
