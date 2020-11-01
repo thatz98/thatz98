@@ -1,4 +1,4 @@
-<div align='center'>
+<div align='center' style='display:inline;'>
   <p font-size='24px' font-weight='bold'> Hello, folks! </p> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
