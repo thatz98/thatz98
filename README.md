@@ -5,10 +5,10 @@
 
 
 <p align='center'>
-<a href="https://dev.to/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/stephenajulu/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.facebook.com/danu.thathsarana.de"><img height="30" src="facebook-32x32"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/FfutryD"><img height="30" src="twitter-32x32"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/thathsaranaweerakoon"><img height="30" src="linkedin-32x32"></a>&nbsp;&nbsp;
+<a href="https://github.com/thatz98"><img height="30" src="github-32x32"></a>
 </p>
 
 <!--
