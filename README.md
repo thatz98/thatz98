@@ -15,6 +15,8 @@
 <p align='center'>
 Enthusiastic, creative computer science undergraduate with 2+ years of experience in BPO/KPO industry seeking to leverage exemplary leadership, analytical and programming skills, thinks out of the box and tries to go beyond the tradition. Good negotiator, presenter, quick learner and adopt fast to new technologies and environments within a very short period of time.
 </p>
+
+<img src="down.svg">
 <!--
 **thatz98/thatz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
