@@ -13,6 +13,54 @@
 Enthusiastic, creative and flexible software engineering undergraduate with 2+ years of experience in BPO/KPO industry seeking to leverage engineering, analytical and programming skills. Thinks out of the box and tries to go beyond the tradition. A Good negotiator, presenter, organizer and quick learner. Adopt fast to new technologies and environments within a very short period of time. Interested in DevOps, cloud and software engineering.
 </p>
 
+```javascript
+var Thatz = {
+    experience: [
+        {
+            title: "Microsoft Learn Student Ambassador",
+            where: "Microsoft",
+            from: "Apr 2021",
+            to: "Now"
+        },
+        {
+            title: "Service Provider - Belgian Projects",
+            where: "Innodata Inc.",
+            from: "Mar 2019",
+            to: "Nov 2020"
+        },
+        {
+            title: "Production Associate - Belgian Projects",
+            where: "Innodata Inc.",
+            from: "Mar 2018",
+            to: "Mar 2019"
+        }
+    ],
+    education: {
+        university: "University of Colombo School of Computing",
+        degreeEnrolled: "B.sc. (Hons) in Software Engineering",
+        status: "Undergraduate",
+        from: "Jan 2019",
+        to: "Now"
+    },
+    technologies: {
+        languages: ["C", "C++", "Java", "Python", "Php", "JavaScript", "Scala", "R"],
+        frontEnd: {
+            css: ["Bootstrap", "Material UI"],
+            js: ["jQuery", "React"]
+        },
+        backEnd: {
+            js: ["Codigniter", "Node", "Express"]
+        },
+        databases: {
+            SQL: ["MySQL"],
+            noSQL: ["MongoDB"]
+        },
+        cloud: ["Azure", "AWS", "GCP"],
+        DevOps: ["Git", "GitHub", "Jenkins", "Ansible", "NagiOs"]
+    }
+};
+```
+
 <img src="waves hikk.svg">
 <!--
 **thatz98/thatz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
