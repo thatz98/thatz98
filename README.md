@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello there! I'm Thatz. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-![image](41357-github-dark-mode.gif)
+![image](animation_500_kpc0m6fx.gif)
 
 
 <p align='center'>
