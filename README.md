@@ -6,7 +6,7 @@
 <a href="https://github.com/thatz98"><img height="30" src="github-32x32.png"></a>
 </p>
 <br>
-<img src="animation_500_kpc1f5r2.gif" height="300" align="right">
+<img src="animation_500_kpc1f5r2.gif" height="200" align="right">
 
 
 <p align='left'>
