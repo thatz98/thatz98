@@ -14,7 +14,7 @@
 Enthusiastic, creative and flexible software engineering undergraduate with 2+ years of experience in BPO/KPO industry seeking to leverage engineering, analytical and programming skills. Thinks out of the box and tries to go beyond the tradition. A Good negotiator, presenter, organizer and quick learner. Adopt fast to new technologies and environments within a very short period of time. Interested in DevOps, cloud and software engineering.
 </p>
 
-<img src="layered-waves-haikei.svg">
+<img src="waves hikk.svg">
 <!--
 **thatz98/thatz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
