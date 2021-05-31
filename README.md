@@ -1,7 +1,6 @@
 <h1 align="center">Hello there! I'm Thatz. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-![image](animation_500_kpc1f5r2.gif)
-
+<img src="animation_500_kpc1f5r2.gif" height="300">
 
 <p align='center'>
 <a href="https://www.facebook.com/danu.thathsarana.de"><img height="30" src="facebook-32x32.png"></a>&nbsp;&nbsp;
