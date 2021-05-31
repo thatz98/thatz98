@@ -15,6 +15,7 @@ Enthusiastic, creative and flexible software engineering undergraduate with 2+ y
 </p>
 
 <img src="layered-waves-haikei.svg">
+
 <!--
 **thatz98/thatz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
