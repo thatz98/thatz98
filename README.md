@@ -1,6 +1,6 @@
 <h1 align="center">Hello there! I'm Thatz. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-![image](animation_500_kpc0m6fx.gif)
+![image](animation_500_kpc1f5r2.gif)
 
 
 <p align='center'>
