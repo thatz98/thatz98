@@ -37,7 +37,7 @@ var Thatz = {
     ],
     education: {
         university: "University of Colombo School of Computing",
-        degreeEnrolled: "B.sc. (Hons) in Software Engineering",
+        degreeEnrolled: "B.Sc. (Hons) in Software Engineering",
         status: "Undergraduate",
         from: "Jan 2019",
         to: "Now"
@@ -56,7 +56,7 @@ var Thatz = {
             noSQL: ["MongoDB"]
         },
         cloud: ["Azure", "AWS", "GCP"],
-        DevOps: ["Git", "GitHub", "Jenkins", "Ansible", "NagiOs"]
+        DevOps: ["Git", "GitHub", "Jenkins", "Ansible", "Docker"]
     }
 };
 ```
