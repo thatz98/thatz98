@@ -10,9 +10,7 @@
 var Thatz = {
   name: "Thathsarana Weerakoon",
   description:
-    "A creative, flexible and supportive individual who tries to go beyond the tradition. A good negotiator, team player 
-    and with multi-tasking capabilities. Adopts to new technologies and environments under minimal supervision. 
-    Interested in software designing, development, DevOps and Cloud Computing.",
+    "A creative, flexible and supportive individual who tries to go beyond tradition. A good negotiator and a team player with multitasking capabilities. Adapts to new technologies and environments under minimal supervision. Interested in software designing, development, DevOps and Cloud Computing.",
   experience: [
     {
       title: "Senior Software Engineer",
