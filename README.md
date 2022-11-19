@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! I'm Thatz. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hello world!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <p align='center'>
 <a href="https://www.facebook.com/danu.thathsarana.de"><img height="30" src="facebook-32x32.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/FfutryD"><img height="30" src="twitter-32x32.png"></a>&nbsp;&nbsp;
